@@ -1,4 +1,4 @@
-export const dbmsQuestions = [
+export default [
     {
         id: 1,
         question: "What is DBMS? Mention advantages.",
